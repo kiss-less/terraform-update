@@ -1,5 +1,5 @@
 # terraform-update
-Python script to update Terraform modules to the desired version (for AWS)
+Python script to update Terraform modules to the desired version of Terraform and AWS provider
 
 # Prerequisites
 
